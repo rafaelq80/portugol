@@ -11,11 +11,10 @@ programa
 		resultado = numero%2
 
 		se (resultado == 0)
-			escreva("numero par")
+			escreva("O numero ", numero, " é par!")
 		senao
-			escreva("numero impar")
+			escreva("O numero ", numero, " é impar!")
 
-		//escreva(resultado)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -23,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 226; 
+ * @POSICAO-CURSOR = 257; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

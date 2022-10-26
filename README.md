@@ -23,4 +23,6 @@ Exemplos apresentados na Live Code (<a href="https://github.com/rafaelq80/portug
 
 <a href="http://lite.acad.univali.br/portugol/" target="_blank">Portugol Studio - Oficial</a>
 
+<a href="https://erickweil.github.io/portugolweb/" target="_blank">Portugol Studio - WEB</a>
+
 <a href="https://lms.ev.org.br/mpls/Custom/Cds/COURSES/2856-FUND_LOG_PROGR/pag/index.html" target="_blank">Fundamentos de Lógica de Programação - Fundação Bradesco</a>
